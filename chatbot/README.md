@@ -4,7 +4,7 @@
 
 Although it is not a requirement to use [Microsoft's Bot Framework](https://dev.botframework.com), an application shell in JavaScript has been provided to help get you started. Download the [Bot Framework Emulator](https://github.com/Microsoft/BotFramework-Emulator/releases) to debug and develop locally.
 
-## Challenges
+## Challenge
 
 It's easy to build a bot; it's hard to build a useful bot.
 
