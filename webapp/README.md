@@ -2,7 +2,7 @@
 
 ## Challenge
 
-Medical students have a lot of materials to read/explore, a lot of courses to attend, and very little time to spare. As a result, a poorly designed user experience combined will a large amount of applications to use, can result in valuable time lost, and a lot of frustration.
+Medical students have a lot of material to read/explore, a lot of courses to attend, and very little time to spare. As a result, a poorly designed user experience, combined will a large amount of applications to use, can result in valuable time lost, and a lot of frustration.
 
 The challenge is to build a mobile-ready experience for students to navigate all of their applications and courses with as few clicks as possible, and without the students getting lost in the process. You can use any technology you choose, but you should explain why you chose that particular technology.
 

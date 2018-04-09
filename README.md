@@ -1,6 +1,6 @@
 # UVA Hacking Diversity - April 14th 2018
 
-Coding repository for the 2018 UVA Hacking Diversity event
+This is the coding repository for the 2018 UVA Hacking Diversity event.
 
 ## Expectations
 
@@ -8,7 +8,9 @@ You are not expected to complete a full application. You _are_ expected to formu
 
 ### Instructions
 
-If you don't have a [GitHub](https://github.com) account, please create one.
+If you don't have a [GitHub](https://github.com) account, please create one. You will also need [Git](https://git-scm.com/downloads) installed on your machine.
+
+> If you feel more comfortable with GUI interfaces, feel free to use [GitHub's Desktop](https://desktop.github.com) application.
 
 Go to: `https://github.com/HackingDiversity/Hackathon2018` and click "Fork" in the top right. This will fork the repository to your own account.
 
@@ -25,7 +27,7 @@ Create a `README.md` file in the folder you created. It is here that you should 
 
 When you are finished, commit and push your repository to your GitHub account. From the root of the project:
 
-    git add *
+    git add .
     git commit -m "MY COMMIT MESSAGE"
     git push origin master
 
@@ -53,11 +55,11 @@ Each winning team member will receive a Visa gift card.
 
 ## Door Prizes
 
-We have several books donated by No Starch Press and Rosenfeld Media that will be given away as door prizes. In addition, Baron Fig has donated some of their high quality notebooks, while No Starch has also donated $50 eBook coupons.
+We have several books donated by [No Starch Press](https://nostarch.com) and [Rosenfeld Media](https://rosenfeldmedia.com) that will be given away as door prizes. In addition, [Baron Fig](https://baronfig.com) has donated some of their high quality notebooks, while No Starch has also donated $50 eBook coupons.
 
 ## Swag
 
-Copies of Offscreen Magazine, swag bags, buttons, and stickers galore will be available on a first come, first serve basis (we have a lot). 20% discount codes will be available from Pragmatic Programmers and Rosenfeld Media.
+Copies of [Offscreen Magazine](https://www.offscreenmag.com), swag bags, buttons, and stickers galore will be available on a first come, first serve basis (we have a lot). 20% discount codes will be available from [Pragmatic Programmers](https://pragprog.com) and Rosenfeld Media.
 
 ## Code of Conduct
 
