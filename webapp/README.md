@@ -17,7 +17,7 @@ The challenge is to build a mobile-ready experience for students to navigate all
 
 #### Applications Students Use
 
-> Please note: Example applications and courses are just a small subset of potential applications and courses. The solution should account for a myriad of applications, and courses that potentially span across four undergraduate medical education years.
+> Please note: Example applications and courses are just a small subset of potential applications and courses. The solution should account for a myriad of applications and courses that potentially span across four undergraduate medical education years.
 
 * Student Information System
 * Exam Software
