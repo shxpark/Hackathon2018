@@ -17,6 +17,19 @@ Consider this a "Wild West" challenge. What--if anything--can be inferred from t
 ### Things to Consider
 
 * The root table for the data pull is an "Object times Attribute" table that links items (e.g., question data, evaluation data) with attributes on that object (e.g., learning objectives, category threads). This data is about relationships.
+* The resulting CSV file is a combination of several different database tables. The root table is just where relationships across data points are stored.
 * There are different object types, so not all rows/records are related to each other.
 * Different explorations will require different data cleaning. Some columns might be unnecessary in your specific exploration.
 * If you cannot open/process the data set on your computer, you can use a [smaller version](https://octobercodes.blob.core.windows.net/hackathon/sample-data-small.csv) of the data set, or you can use [Azure Notebooks](https://notebooks.azure.com) to process the file.
+* Be creative, if you can. Don't go with the obvious analysis.
+
+### Data Dictionary
+
+* Object - A primary item stored in the database. This could be a question that is used on an exam, an exam itself, an evaluation/assesment, etc. (data in the Object column is an ID of QuestionID, ExamID, AssessmentID, etc.).
+* Attribute - Value of the meta data that is being stored to label/describe the object.
+* Type - Name of the object or name for the attribute.
+* DateStart - When the attribute was first related to the object.
+* DateEnd - When the attribute was disassociated with the object.
+* Source - Which database the object is stored in.
+* Assessment - An evaluation/assessment of skills not from an exam.
+* Count - A-J represent the letter designation of an exam question. The count is the total number of student responses.
