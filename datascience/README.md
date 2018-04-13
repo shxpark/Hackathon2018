@@ -32,4 +32,4 @@ Consider this a "Wild West" challenge. What--if anything--can be inferred from t
 * DateEnd - When the attribute was disassociated with the object.
 * Source - Which database the object is stored in.
 * Assessment - An evaluation/assessment of skills not from an exam.
-* Count - A-J represent the letter designation of an exam question. The count is the total number of student responses.
+* Count - A-J represent the letter designation of an exam question answer. The count is the total number of student responses for that designation.
