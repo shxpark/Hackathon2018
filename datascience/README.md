@@ -27,7 +27,7 @@ Consider this a "Wild West" challenge. What--if anything--can be inferred from t
 
 * Object - A primary item stored in the database. This could be a question that is used on an exam, an exam itself, an evaluation/assesment, etc. (data in the Object column is an ID of QuestionID, ExamID, AssessmentID, etc.).
 * Attribute - Value of the meta data that is being stored to label/describe the object.
-* Type - Name of the object or name or the attribute.
+* Type - Name of the object or name for the attribute.
 * DateStart - When the attribute was first related to the object.
 * DateEnd - When the attribute was disassociated with the object.
 * Source - Which database the object is stored in.
