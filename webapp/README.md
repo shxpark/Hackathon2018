@@ -37,18 +37,6 @@ The challenge is to build a mobile-ready experience for students to navigate all
 * Social Issues in Medicine
 * Foundations Of Medicine
 * Cells, Tissues and Mechanisms of Disease
-* Internal Medicine Clerkship
-* Ambulatory Internal Medicine
-* Geriatrics Clerkship
-* Obstetrics & Gynecology Clerkship
-* Pediatrics Clerkship
-* Surgery Specialties Clerkship
-* Surgery Clerkship
-* Psychiatric Medicine Clerkship
-* Family Medicine Clerkship
-* Emergency Medicine Clerkship
-* Peri-Operative Medicine Clerkship
-* Neurology Clerkship
 * Microbes & The Immune System
 * Musculoskeletal-Integument
 * Mind, Brain, & Behavior
@@ -61,9 +49,23 @@ The challenge is to build a mobile-ready experience for students to navigate all
 * Health Care Policy
 * Emergency Medicine
 * Clinical Hematology/ Oncology
-* Neurosurgery Subspecialty
-* Ophthalmology Subspecialty
-* Orthopaedic Surgery Subspecialty
-* Otolaryngology Subspecialty
-* Plastic Surgery - Wound Repair Selective
-* Urology Subspecialty
+* Neurosurgery
+* Ophthalmology
+* Orthopaedic Surgery
+* Otolaryngology
+* Plastic Surgery
+* Urology
+
+#### Supervised Clinical Clerkship Rotations
+* Internal Medicine Clerkship Rotation
+* Ambulatory Internal Medicine Clerkship Rotation
+* Geriatrics Clerkship Rotation
+* Obstetrics & Gynecology Clerkship Rotation
+* Pediatrics Clerkship Rotation
+* Surgery Specialties Clerkship Rotation
+* Surgery Clerkship Rotation
+* Psychiatric Medicine Clerkship Rotation
+* Family Medicine Clerkship Rotation
+* Emergency Medicine Clerkship Rotation
+* Peri-Operative Medicine Clerkship Rotation
+* Neurology Clerkship Rotation
