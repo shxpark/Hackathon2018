@@ -21,6 +21,7 @@ Consider this a "Wild West" challenge. What--if anything--can be inferred from t
 * There are different object types, so not all rows/records are related to each other.
 * Different explorations will require different data cleaning. Some columns might be unnecessary in your specific exploration.
 * If you cannot open/process the data set on your computer, you can use a [smaller version](https://octobercodes.blob.core.windows.net/hackathon/sample-data-small.csv) of the data set, or you can use [Azure Notebooks](https://notebooks.azure.com) to process the file.
+* Errors have been purposely introduced into the data/file.
 * Be creative, if you can. Don't go with the obvious analysis.
 
 ### Data Dictionary
@@ -33,3 +34,5 @@ Consider this a "Wild West" challenge. What--if anything--can be inferred from t
 * Source - Which database the object is stored in.
 * Assessment - An evaluation/assessment of skills not from an exam.
 * Count - A-J represent the letter designation of an exam question answer. The count is the total number of student responses for that designation.
+
+> Disclaimer: Although the data is based on real relationships, exam data is *not* in order to protect the integrity of the exams.
